@@ -8,7 +8,7 @@ function SearchBar() {
 
     
     const handleSubmit = (e) => { 
-        e.preventDefault();//sprecavamo ponovno ucitavanje stranice
+        e.preventDefault();
         navigate(`/search?q=${term}`);
     }
     return (
