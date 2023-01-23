@@ -1,0 +1,61 @@
+.car-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+.car-list .card {
+    background: #fff;
+    color: #333;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.car-list .card:hover {
+    transform: rotate(3deg);
+}
+
+.car-list .card h3 {
+    color: #555;
+    margin-bottom: 6px;
+}
+
+.car-list .card p {
+    color:  black;
+    font-size: 0.9em;
+}
+
+.car-list .card div {
+    color: #555;
+    font-size: 0.7em;
+    margin: 20px 0;
+    line-height: 1.5em;
+}
+
+.car-list .card a {
+    color: #555;
+    text-decoration: none;
+    display: block;
+    background: #e2e2e2;
+    font-size: 0.9em;
+    text-align: center;
+    width: 120px;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 20px auto 0;
+}
+.card-img-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    max-width: 200px;
+    max-height: 200px;
+    
+} 

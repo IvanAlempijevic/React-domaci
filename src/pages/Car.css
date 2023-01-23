@@ -1,0 +1,48 @@
+.car {
+    max-width: 1200px;
+    margin: 40px auto;
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.car ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.car li {
+    list-style-type: none;
+    margin-right: 10px;
+    color:   #6D9886;
+    font-size: medium;
+}
+
+.car li::after {
+    content: ",";
+}
+
+.car li:last-child::after {
+    content: ".";
+}
+
+.description {
+    text-align: left;
+    line-height: 1.5em;
+}
+.card-img-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    max-width: 350px;
+    max-height: 350px; 
+} 
+p{
+    text-align: left;
+}
+

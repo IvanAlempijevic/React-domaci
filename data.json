@@ -1,0 +1,181 @@
+
+{
+  
+    "cars": [
+
+      {
+        "id": "1",
+        "title": "2022 Chevrolet Corvette",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614776/2022_chevrolet_corvette_stingray_angularfront.jpg",
+        "keywords": [
+          "Chevrolet",
+          "Corvette",
+          "2 seater",
+          "automatic",
+          "RWD"
+        ],
+        "seats": "2",
+        "drive": "RWD",
+        "transmission": "automatic",
+        "description": "The 2022 Chevrolet Corvette claims the top spot in the luxury sports car class, thanks to its value proposition, lightning-quick acceleration, precise handling, comfortable and well-trimmed interior, and intuitive tech features. ",
+        "price": "80.000"
+      },
+      {
+        "id": "2",
+        "title": "2023 Audi R8",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/custom/15087/2023_Audi_R8_1.jpg",
+        "keywords": [
+          "Audi",
+          "2023",
+          "R8",
+          "AWD",
+          "RWD",
+          "2 seater",
+          "automatic"
+        ],
+        "seats": "2",
+        "drive": "AWD,RWD",
+        "transmission": "automatic",
+        "description": "The 2023 Audi R8 rides off into the sunset on a high note – more specifically, the blare of its V10 engine. It's brutally fast, thrilling to drive and dressed to the nines with quality materials, though it's not exactly practical, fuel-efficient or even remotely affordable.",
+        "price": "220.000"
+      },
+      {
+        "id": "3",
+        "title": "2022 Porsche Cayman",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614960/2022_porsche_718_cayman_angularfront.jpg",
+        "keywords": [
+          "Porsche",
+          "2022",
+          "manual",
+          "2 seater",
+          "RWD"
+        ],
+        "seats": "2",
+        "drive": "RWD",
+        "transmission": "manual",
+        "description": "The 2022 Porsche Cayman is everything you want a luxury sports car to be: fast, agile, and posh. However, some rivals offer more standard features. ",
+        "price": "100.000"
+      },
+      {
+        "id": "4",
+        "title": "2022 Mercedes-Benz GT",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/custom/14928/2022_Mercedes-AMG_GT_1.jpg",
+        "keywords": [
+          "2022",
+          "Mercedes",
+          "4 seater",
+          "AWD",
+          "automatic"
+        ],
+        "seats": "4",
+        "drive": "AWD",
+        "transmission": "automatic",
+        "description": "The 2022 Mercedes-AMG GT has a top-notch interior, lots of high-tech features and amenities, and zesty driving dynamics, but it can't match the outright firepower or razor-sharp handling of the top models in the luxury sports car class.",
+        "price": "120.000"
+      },
+      {
+        "id": "5",
+        "title": "2022 Porsche Boxster",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614898/2022_porsche_718_boxster_angularfront.jpg",
+        "keywords": [
+          "Porsche",
+          "2022",
+          "2 seater",
+          "RWD",
+          "manual"
+        ],
+        "seats": "2",
+        "drive": "RWD",
+        "transmission": "manual",
+        "description": "The 2022 Porsche Boxster climbs toward the top of the luxury sports car class partly on the strength of its well-rounded performance and high predicted reliability score. ",
+        "price": "98.000"
+      },
+      {
+        "id": "6",
+        "title": "2022 Lexus LC",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/custom/14949/2022_Lexus_LC_1.jpg",
+        "keywords": [
+          "Lexus",
+          "2022",
+          "4 seater",
+          "RWD",
+          "automatic"
+        ],
+        "seats": "4",
+        "drive": "RWD",
+        "transmission": "automatic",
+        "description": "The 2022 Lexus LC ranks midpack among luxury sports cars. It delivers spry acceleration, well-rounded handling attributes, and a classy cabin, but it comes up short in rear-seat and cargo space, and its infotainment controls are cumbersome.",
+        "price": "95.000"
+      },
+      {
+        "id": "7",
+        "title": "2022 Audi TT",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614751/2022_audi_tt_coupe_angularfront.jpg",
+        "keywords": [
+          "Audi",
+          "2022",
+          "AWD",
+          "4 seater",
+          "automatic"
+        ],
+        "seats": "4",
+        "drive": "AWD",
+        "transmission": "automatic",
+        "description": "The 2022 Audi TT finishes in the bottom half of our luxury sports car rankings. It’s fun to drive and has a great interior, but it can’t quite match the blinding performance of some class rivals",
+        "price": "60.000"
+      },
+      {
+        "id": "8",
+        "title": "2021 Lexus LC",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159614019/2021_lexus_lc_angularfront.jpg",
+        "keywords": [
+          "Lexus",
+          "2021",
+          "4 seater",
+          "RWD",
+          "automatic"
+        ],
+        "seats": "4",
+        "drive": "RWD",
+        "transmission": "automatic",
+        "description": "The 2021 Lexus LC finishes in the top half of our luxury sports car rankings. It's fun to drive, with a first-rate interior and a comfortable ride, even if it doesn't have the blinding athleticism of some classmates.",
+        "price": "88.000"
+      },
+      {
+        "id": "9",
+        "title": "2023 BMW 8-Series",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/custom/14945/2023_BMW_8-Series_1.jpg",
+        "keywords": [
+          "BMW",
+          "2023",
+          "AWD",
+          "RWD",
+          "automatic"
+        ],
+        "seats": "5",
+        "drive": "AWD,RWD",
+        "transmission": "automatic",
+        "description": "The 2023 BMW 8 Series combines thrilling performance with a luxurious cabin, representing the best of what the brand has to offer.",
+        "price": "140.000"
+      },
+      {
+        "id": "10",
+        "title": "2022 Porsche 911",
+        "photo": "https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615277/2022_porsche_911_0_angularfront.jpg",
+        "keywords": [
+          "Porsche",
+          "911",
+          "4 seater",
+          "AWD",
+          "RWD",
+          "automatic"
+        ],
+        "seats": "4",
+        "drive": "AWD,RWD",
+        "transmission": "automatic",
+        "description": "The 2022 Porsche 911 ranks highly among luxury sports cars thanks in part to its enticing acceleration, standard-setting handling, and impeccable quality.",
+        "price": "105.000"
+      }
+      
+    ]
+  }
