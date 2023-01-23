@@ -22,7 +22,7 @@ function Car() {
                 <img
                 className="card-img"
                 src={car.photo}
-                alt="Neka slika"
+                alt="Slika broj 1"
                 />
           </div>
                 <p> <b>Number of seats:</b> {car.seats}<br></br>
